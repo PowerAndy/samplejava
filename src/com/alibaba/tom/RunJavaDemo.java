@@ -6,6 +6,6 @@ public class RunJavaDemo {
 		// TODO Auto-generated method stub
 		TestJava javaTest = new TestJava();
 		javaTest.printString();
-		System.out.println("���Գɹ�!");
+		System.out.println("你好，GitHub");
 	}
 }
