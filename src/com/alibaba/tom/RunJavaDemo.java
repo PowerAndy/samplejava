@@ -6,6 +6,7 @@ public class RunJavaDemo {
 		// TODO Auto-generated method stub
 		TestJava javaTest = new TestJava();
 		javaTest.printString();
+		System.out.println("≤‚ ‘≥…π¶!");
 	}
 
 }
